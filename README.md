@@ -6,7 +6,11 @@
 # “ Hey there 👋 I'm Daisy „
 ## AI based Advanced telegram Group Management Bot Suit For All Your Needs ❤️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mptelepro/dis)
+
+## How To Host
+The easiest way to deploy this Bot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mptelepro/dis"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ 
 
 ## https://daisyproject.studio
 ## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
