@@ -73,10 +73,7 @@ I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managi
 buttons = [
     [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
-    ],
-    [
-        InlineKeyboardButton(text="🚀 GROUP🚀", url="t.me/mpazaanbot"),
-    ],
+    ],    
     [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
