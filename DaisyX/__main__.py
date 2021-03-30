@@ -75,14 +75,14 @@ buttons = [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
     ],
     [
-        InlineKeyboardButton(text="🚀 GROUP🚀", url="http//t.me/mpazaanbot"),
+        InlineKeyboardButton(text="🚀 GROUP🚀", url="t.me/mpazaanbot"),
     ],
     [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/daisyXBot?startgroup=true"
+            text="💫 Add Daisy to your group 💫", url="t.me/KingKong_robot?startgroup=true"
         ),
     ],
 ]
