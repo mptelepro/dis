@@ -75,6 +75,9 @@ buttons = [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
     ],
     [
+        InlineKeyboardButton(text="🚀 GROUP🚀", url="http//t.me/mpazaanbot"),
+    ],
+    [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
@@ -101,7 +104,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Inuka](t.me/InukaASiTH),[Jason](t.me/imjanindu),"""
+Support them  [mpazaan](t.me/mpazaan),[Group](t.me/mpazaanbot),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -832,6 +835,7 @@ def main():
 
     # dispatcher.add_handler(test_handler)
     dispatcher.add_handler(start_handler)
+    dispatcher.add_handler(aboutmanu_handler)
     dispatcher.add_handler(about_callback_handler)
     dispatcher.add_handler(help_handler)
     dispatcher.add_handler(settings_handler)
